@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\queue\queue\bin\Debug\queue.exe.config
+C:\Users\User\source\repos\queue\queue\bin\Debug\queue.exe
+C:\Users\User\source\repos\queue\queue\bin\Debug\queue.pdb
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.Form1.resources
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.Properties.Resources.resources
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.csproj.GenerateResource.cache
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.exe
+C:\Users\User\source\repos\queue\queue\obj\Debug\queue.pdb
